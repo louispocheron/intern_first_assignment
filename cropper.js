@@ -172,6 +172,7 @@ console.log("sasqssa");
     });
 
     // []
+ // TODO AJAX POUR PUSH L'IMAGE TOTALEMENT MODIFIEE ET CROPPEE DANS LA BASE DE DONNEE
 
 
 
